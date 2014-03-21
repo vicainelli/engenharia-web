@@ -105,8 +105,7 @@ Neste caso quando uma das máquinas do cluster cair, os usuário conectados tamb
  - http://www.neotys.com/product/overview-neoload.html
 
 
-#### Outra forma de fazer testes específicos é utilizar 
-ferramentas locais 
+#### Outra forma de fazer testes específicos é utilizar ferramentas locais 
 
 ##### Apache AB 
  Ferramenta especializada para exibir o número de requisição por segundo da sua infra estrutura 
