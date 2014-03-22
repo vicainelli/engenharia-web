@@ -1,16 +1,16 @@
 # Engenharia Web - Senac
 
-Arquivos das aulas do meu curso de Pós Graduação
+Conteúdo das aulas do curso de Pós Graduação em Engenharia Web.
 
 
 ## Sumário
-- Introdução à Engenharia Web
-- Engenharia de software e sistemas 
+- [Introdução à Engenharia Web](1-introducao-engenharia-web/README.md)
+- Engenharia de software e sistemas
 - Arquitetura da informação
-- Web Design 
-- Ergonomia, usabilidade e IHC 
+- Web Design
+- Ergonomia, usabilidade e IHC
 - Padrões web
-- Gestão de projetos web 
-- Laboratório de tecnologias web 
+- Gestão de projetos web
+- Laboratório de tecnologias web
 - Projeto Web – Concepção
 - Projeto Web – Desenvolvimento
