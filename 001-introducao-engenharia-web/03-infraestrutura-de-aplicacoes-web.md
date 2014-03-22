@@ -114,3 +114,22 @@ Neste caso quando uma das máquinas do cluster cair, os usuário conectados tamb
 Ferramenta especializada em testes de performance de recursos estáticos e dinâmicos 
 
 ## Mecanismo de cache
+
+- Uma outra forma de aumentar a garantir da disponibilidade das aplicações web é trabalhar com o conceito de Cache 
+- Mecanismo de cache é um intermediário entre o cliente e aplicação web. Tem a principal função de responder rapidamente informações já acessadas mais de uma vez. 
+- A principal vantagem é evitar o acesso repetido a recursos de processamento e armazenamento de dados. 
+- Varnish Cache é um mecanismo que trabalha em máquinas apartadas e intermedia o acesso aos servidores web. 
+ - As páginas acessadas pelos usuário são guardadas em memória. No próximo acesso do mesmo usuário ou de outro usuário qualquer, o Varnish Cache entrega a página em memória. 
+ - Essa solução o site responde em até 300 vezes mais rápido
+- Memchaca é uma solução para ser utilizada dentro das aplicações web. 
+ - É um sistema de cache distribuído em memória. 
+ - Instalado em cada máquina de aplicação web. 
+ - Armazena estrutura de dados, e serialização de objetos da aplicação
+
+
+## Amazon Web Services
+
+- Amazon Web Services oferece um conjunto completo de infraestrutura e serviços 
+- Estão disponíveis para serem acessados remotamente na "nuvem". 
+- Um beneficio é o custo baixo para validar "salto de fé" que dependem de infraestruturas computacionais 
+- http://aws.amazon.com/pt/web-mobile-social/
